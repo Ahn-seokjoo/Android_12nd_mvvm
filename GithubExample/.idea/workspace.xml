@@ -13,7 +13,20 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87a2c402-134c-495e-a4f4-31054155bc10" name="Default Changelist" comment="" />
+    <list default="true" id="87a2c402-134c-495e-a4f4-31054155bc10" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/안석주/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/안석주/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/안석주/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/안석주/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/안석주/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/안석주/김현국/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/안석주/김현수/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/안석주/박수진/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/안석주/백다연/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/안석주/안석주/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/안석주/양승희/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/안석주/정민지/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/안석주/주혜진/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/안석주/최창익/README.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +56,7 @@
         <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/안석주" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -63,7 +76,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/안석주" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Ahn-seokjoo" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
